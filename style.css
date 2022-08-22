@@ -1,0 +1,36 @@
+body{
+
+    background-image: linear-gradient(to right, #393B62 , #9C416A, #FFD672, #F9DEAB);
+    font: normal 15pt Arial;
+
+}
+
+header{
+
+    color: white;
+    text-align: center;
+}
+
+section{
+
+    background: white;
+    border-radius: 50px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+    text-align: center;
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img#foto{
+
+    text-align: end;
+    padding: 20px;
+}
